@@ -16,7 +16,6 @@ programa
     }
   
     soma = a - b
-  
     escreva("\nA soma dos números é igual a: " , soma)
   }
 }
